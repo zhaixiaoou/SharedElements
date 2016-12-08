@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/CustomeViewDemo/SharedElements/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/CustomeViewDemo/SharedElements/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_4c3507a6a4f5c618e86bd26a8f642382dfb85070.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/CustomeViewDemo/SharedElements/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/CustomeViewDemo/SharedElements/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_2058485e5ed678e1f3e41eee9b973a8e06c54049.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/CustomeViewDemo/SharedElements/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/CustomeViewDemo/SharedElements/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_f5b2b37b255732356396721629f316ee7a2d5dac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/CustomeViewDemo/SharedElements/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/CustomeViewDemo/SharedElements/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_f7048fcf1cbc0ca162d9eb43733303a1548c1f8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xiaoouzhai/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/CustomeViewDemo/SharedElements/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_d1ca1bd8febdfdd16c3c63e3429e0d08cf9db5ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/CustomeViewDemo/SharedElements/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/CustomeViewDemo/SharedElements/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_6a275b0e542491479cb125df214eebf28815ed62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/CustomeViewDemo/SharedElements/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/CustomeViewDemo/SharedElements/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_6f7a600f4bc9ed4d9217a53fba795fcabaa72004.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/CustomeViewDemo/SharedElements/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/CustomeViewDemo/SharedElements/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_51da0ef78c9ec712297e5b3b28b11f9f7c71421f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/CustomeViewDemo/SharedElements/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/CustomeViewDemo/SharedElements/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_b872a2f4a890433e83b96da66862664cb2993282.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/CustomeViewDemo/SharedElements/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/CustomeViewDemo/SharedElements/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_921854c9ec5fa29e189945d83fa3b8e238084160.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/CustomeViewDemo/SharedElements/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/CustomeViewDemo/SharedElements/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_64bfc7d9954a352b21ba8240753780fd5772e7f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/CustomeViewDemo/SharedElements/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/CustomeViewDemo/SharedElements/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_850d637c6c64a8d94dad6f69be494372adf9b496.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/CustomeViewDemo/SharedElements/app/build/intermediates/exploded-aar/com.orhanobut/logger/1.15/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2a156b99fc7cc034308f942906b09d32754a4470">
+        <dex dex="/CustomeViewDemo/SharedElements/app/build/intermediates/pre-dexed/debug/com.orhanobut-logger-1.15_6a910723bc05832f73ba4f4e4983e31d12c7e583.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/CustomeViewDemo/SharedElements/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/CustomeViewDemo/SharedElements/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_a219d025d346c43c0d57950740efa3474f91647c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/CustomeViewDemo/SharedElements/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/CustomeViewDemo/SharedElements/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_b825625b31065cf1ce98b00a4129cdcbc4baa227.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xiaoouzhai/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.4.0/f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2/picasso-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="/CustomeViewDemo/SharedElements/app/build/intermediates/pre-dexed/debug/picasso-2.4.0_ab7296eee37a81fdd55ee439a117a45455f81037.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/CustomeViewDemo/SharedElements/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/CustomeViewDemo/SharedElements/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_5dac2c5baf825b4bc98fae601fa8f4e4bceff37e.jar" />
+    </item>
+
+</items>
